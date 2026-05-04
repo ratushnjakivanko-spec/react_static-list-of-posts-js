@@ -1,3 +1,4 @@
+import './CommentInfo.scss';
 import React from 'react';
 
 export const CommentInfo = ({ comment }) => {
